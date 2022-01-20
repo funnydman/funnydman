@@ -1,15 +1,5 @@
-### Hi, I'm funnydman. Why? because I'm funny and I'm a man) 👋
-
-- 🔭 I’m currently working on improving my life.
-- 🌱 I’m currently learning functional programming and do competitive programming
-- 👯 I’m looking to collaborate on ML && Haskell projects
-- 🤔 I’m looking for help with competitive programming
-- 📫 How to reach me: "[99, 114, 97, 122, 121, 100, 122, 109, 105, 116, 114, 121, 64, 103, 109, 97, 105, 108, 46, 99, 111, 109]"
-- 😄 Pronouns: he
-- ⚡ Fun fact: I'm human
-
-
-
+### Hi, World!
+I know that I know nothing (с) Socrates
 </br>
 <h3 align="left">Programming & Scripting Languages:</h3>
 <p align="left">
